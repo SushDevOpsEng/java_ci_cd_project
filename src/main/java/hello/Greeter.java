@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
     public String sayHello() {
-        return "DevOps Project for Technogeeks, Pune Technologies";
+        return "DevOps  and Jenkins Project for Technogeeks, Pune Technologies";
     }
 }
