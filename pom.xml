@@ -49,3 +49,15 @@
         </plugins>
     </build>
 </project>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-2-27-releases</name>
+        <url>http://3.7.248.106:8081/artifactory/Sp_Local_Repo</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-2-27-snapshots</name>
+        <url>http://3.7.248.106:8081/artifactory/Sp_Local_Repo</url>
+    </snapshotRepository>
+</distributionManagement>
